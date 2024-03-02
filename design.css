@@ -202,7 +202,7 @@ nav ul li a:hover{
         font-size: 80px;
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke: 1px #00e600;
-        font-family: 'Poppins';
+        font-family: 'Franklin Gothic Heavy';
 
         
     }
@@ -752,6 +752,7 @@ nav .fa-solid{
 
     .home-content h1 span {
         font-size: 40px;
+        font-family: 'Poppins';
     }
 
     .home-content h3 {
